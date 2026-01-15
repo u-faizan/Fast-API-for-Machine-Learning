@@ -1,0 +1,29 @@
+{
+    "P001": {
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male",
+        "city": "New York",
+        "height": 175,
+        "weight": 70,
+        "bmi": 22.9
+    },
+    "P002": {
+        "name": "Jane Smith",
+        "age": 28,
+        "gender": "Female",
+        "city": "Los Angeles",
+        "height": 165,
+        "weight": 60,
+        "bmi": 22.0
+    },
+    "P003": {
+        "name": "Mike Johnson",
+        "age": 42,
+        "gender": "Male",
+        "city": "Chicago",
+        "height": 180,
+        "weight": 85,
+        "bmi": 26.2
+    }
+}
