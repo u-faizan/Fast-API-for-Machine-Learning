@@ -250,7 +250,7 @@ APIs return responses in **JSON (JavaScript Object Notation)** format.
 
 ---
 
-## Next Video Preview
+## Next Section Preview
 - Benefits of FastAPI vs other API frameworks
 - Setting up FastAPI development environment
 - Building your first API
